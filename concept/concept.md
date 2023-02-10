@@ -1,4 +1,5 @@
 is:: [[concept]]
+from:: [concept | DigitalReplica](https://github.com/digitalreplica/conceptual-knowledge/blob/main/concept/concept.md)
 from:: [concept | Wikipedia](https://en.wikipedia.org/wiki/Concept)
 
 # About
