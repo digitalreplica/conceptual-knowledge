@@ -1,11 +1,10 @@
+---
+Aliases: concepts
+---
 is:: [[concept]]
-from:: [concept | DigitalReplica](https://github.com/digitalreplica/conceptual-knowledge/blob/main/concept/concept.md)
+from:: [[conceptual knowledge]]
 from:: [concept | Wikipedia](https://en.wikipedia.org/wiki/Concept)
+equals:: [concept | DigitalReplica](https://github.com/digitalreplica/conceptual-knowledge/blob/main/concept/concept.md)
 
 # About
-- The root of a concept-based knowledge structure
-- Uses markdown, wikilinks, and yaml to define meaning and structure for both humans and computers
-- Can be extended and mixed to create new concepts of any complexity
-
-## Basic usage
-- The most basic usage is the phrase `{name} is {concept} from {concept or url}`
+A concept is the fundamental building block of [[conceptual knowledge]].
