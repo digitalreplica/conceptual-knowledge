@@ -149,6 +149,8 @@ It should be possible to create libraries of concepts that people can easily imp
 
 Since each library would link out to relevant sources of truth, everyone using that library would automatically have compatible knowledge structures.
 
+A core library of concepts has been started at https://github.com/digitalreplica/conceptual-knowledge-core.
+
 ## Comparing two knowledge structures
 It should be straightforward to compare two knowledge structures with overlapping relationships to create new ways of looking at knowledge. Let's look at Alice and Bob again.
 
