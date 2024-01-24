@@ -4,12 +4,6 @@ is:
 of:
   - "[[concept]]"
 ---
-
-
-is:: [[concept]]
-from:: [concept | Wikipedia](https://en.wikipedia.org/wiki/Concept)
-equals:: [conceptual knowledge | DigitalReplica](https://github.com/digitalreplica/conceptual-knowledge/blob/main/concept/conceptual%20knowledge.md)
-
 # Introduction
 
 Knowledge is a complex thing, built on millions of individual concepts, most of which mean different things to different people. Conceptual knowledge is a set of building blocks to stitch those concepts together into a cohesive whole. It starts with a fundamental [[concept]], then uses [[relationship]](s) to define other concepts and how they interrelate. The result is a tree-based knowledge structure that models each person's individual way of thinking, while allowing comparisons by both humans and computers.
