@@ -1,8 +1,9 @@
 ---
+aliases:
+  - international organization
+id: 0c9f233f-2daa-4356-af1f-573298798892
 is:
   - "[[concept]]"
-sources:
+urls:
   - https://en.wikipedia.org/wiki/International_organization
 ---
-# Notes
-- legal entity where countries are the members

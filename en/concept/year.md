@@ -1,10 +1,9 @@
 ---
+aliases:
+  - year
+id: a8fa73f1-d008-47da-b460-a0003a4d323a
 is:
   - "[[concept]]"
-of:
-  - "[[time]]"
 urls:
   - https://en.wikipedia.org/wiki/Year
 ---
-# Notes
-- One orbit of the Earth around the sun
