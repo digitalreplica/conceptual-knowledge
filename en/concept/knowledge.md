@@ -2,7 +2,7 @@
 aliases:
   - knowledge
 id: cc59c7b7-55f1-4d9c-b4b7-c9efd9a4f8c2
-is:
+is_a:
   - "[[concept]]"
 urls:
 ---

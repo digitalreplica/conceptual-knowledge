@@ -3,7 +3,7 @@ aliases:
   - process
   - procedure
 id: 19b675aa-1b28-427d-8c05-cdc0db6fcee0
-is:
+is_a:
   - "[[concept]]"
 urls:
 ---

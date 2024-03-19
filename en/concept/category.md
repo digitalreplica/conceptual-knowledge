@@ -6,7 +6,7 @@ aliases:
   - genre
   - topic
 id: 9622ff7b-28c5-4fc3-a74f-1c096ec31a2f
-is:
+is_a:
   - "[[concept]]"
 urls:
   - https://en.wikipedia.org/wiki/Categorization

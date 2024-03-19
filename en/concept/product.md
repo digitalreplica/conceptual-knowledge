@@ -2,7 +2,7 @@
 aliases:
   - product
 id: 4c607c1d-e635-4173-9f6a-9cc7b2ec9217
-is:
+is_a:
   - "[[concept]]"
 urls:
   - https://en.wikipedia.org/wiki/Product_(business)

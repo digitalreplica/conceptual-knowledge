@@ -2,7 +2,7 @@
 aliases:
   - word
 id: 2e162922-11cf-485f-80da-d22682515c96
-is:
+is_a:
   - "[[concept]]"
 urls:
 ---
