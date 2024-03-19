@@ -1,5 +1,5 @@
 ---
-is-a:
+is_a:
   - "[[note]]"
 of:
   - "[[concept]]"
@@ -26,7 +26,7 @@ Relationships are ways of linking concepts together into a larger knowledge stru
 Relationships also link your knowledge structure to the vast amount of knowledge humanity has already collected. Like with the definition of concept, it creates an internal concept in your knowledge structure by linking it to a external resource. That's the shortcut that allows complex structures to be created quickly, while allowing different structures to be compared.
 
 ### Is
-The word [[is-a]] has several different meanings, but conceptual knowledge always uses it with the meaning,  "`_____ is a _____`". For example, color is a concept, and red is a color.
+The word [[is_a]] has several different meanings, but conceptual knowledge always uses it with the meaning,  "`_____ is a _____`". For example, color is a concept, and red is a color.
 
 ``` mermaid
 flowchart LR
@@ -211,7 +211,7 @@ Here's an example from our book.
 
 **Harry Potter and the Philosopher’s Stone**
 ```
-is-a:: [[book]]
+is_a:: [[book]]
 type:: [[fantasy]]
 author:: [[J.K. Rowling]]
 equals:: [Harry Potter and the Philosopher’s Stone | Goodreads](https://www.goodreads.com/book/show/72193.Harry_Potter_and_the_Philosopher_s_Stone)
@@ -224,7 +224,7 @@ Concepts are even smaller, since they typically only have relationships without 
 
 **book**
 ```
-is-a:: [[concept]]
+is_a:: [[concept]]
 equals:: [book | Wikipedia](https://en.wikipedia.org/wiki/Book
 ```
 

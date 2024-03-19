@@ -1,9 +1,9 @@
 ---
 aliases:
   - is a
-  - is-a
+  - is_a
 id: 7bbc6874-29d6-4c67-be58-3be81c862ece
-is-a:
+is_a:
   - "[[conceptual relationship]]"
 ---
 # Summary

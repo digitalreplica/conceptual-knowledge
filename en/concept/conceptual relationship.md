@@ -3,7 +3,7 @@ aliases:
   - conceptual relationship
   - conceptual-relationship
 id: 28eb1675-2a73-4bb6-8f81-d9ee97605a85
-is-a:
+is_a:
   - "[[concept]]"
 ---
 # Summary

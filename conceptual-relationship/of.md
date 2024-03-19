@@ -1,7 +1,7 @@
 ---
 aliases: 
 id: 
-is-a:
+is_a:
   - "[[conceptual relationship]]"
 ---
 # Summary

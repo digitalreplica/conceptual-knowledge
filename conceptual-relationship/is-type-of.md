@@ -3,7 +3,7 @@ aliases:
   - is type of
   - is-type-of
 id: 617ded09-b680-4b40-b0c3-8575a518b9bb
-is-a:
+is_a:
   - "[[conceptual relationship]]"
 ---
 # Summary
