@@ -27,7 +27,8 @@ In practice, conceptual relationships are typically defined and captured as part
 
 ```yaml
 name: Photosynthesis
-is_a: "[[Biological Process]]"
+is_a:
+  - "[[Biological Process]]"
 ```
 
 By establishing and maintaining these conceptual relationships, a knowledge system becomes more than a collection of isolated concepts; it becomes a rich, interconnected tapestry of knowledge that mirrors the way human understanding is structured and facilitates knowledge discovery, reasoning, and exploration.
