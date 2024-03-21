@@ -6,7 +6,7 @@ id: 28eb1675-2a73-4bb6-8f81-d9ee97605a85
 is_a:
   - "[[concept]]"
 ---
-# Summary
+# Conceptual Relationship
 IIn the ConceptMesh knowledge system, conceptual relationships are a crucial component that enable the creation of an interconnected web of knowledge. These relationships are defined within the YAML frontmatter section of each concept file, where they establish meaningful associations between the current concept and other related concepts or notes.
 
 Conceptual relationships serve several key purposes:

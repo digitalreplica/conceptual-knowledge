@@ -6,7 +6,7 @@ id: 80cfa0a0-99db-4643-9633-1e7f9de0ab30
 is_a:
   - "[[concept]]"
 ---
-# Summary
+# Concept
 A concept is a fundamental unit of knowledge that represents an abstract idea, object, process, or phenomenon. It serves as a mental representation that helps us understand, categorize, and make sense of various aspects of the world. Concepts can range from simple and concrete (e.g., "chair," "red") to complex and abstract (e.g., "democracy," "quantum mechanics").
 
 In the ConceptMesh knowledge system, a concept is a modular and self-contained unit used to capture, organize, and interconnect knowledge. Each concept is represented by a plain text file that consists of two main components:

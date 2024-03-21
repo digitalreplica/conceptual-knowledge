@@ -6,7 +6,7 @@ id: 7bbc6874-29d6-4c67-be58-3be81c862ece
 is_a:
   - "[[conceptual relationship]]"
 ---
-# Summary
+# Is_a
 The "is a" relationship is a fundamental construct in ConceptMesh that enables the creation of hierarchical taxonomies and inheritance structures within the interconnected knowledge base. It represents a subtype or specialization relationship between concepts, where one concept is defined as a specific instance or example of another, more general concept.
 
 In the YAML frontmatter section of each concept file, the "is a" relationship is typically defined using a key-value pair, where the key is "is_a", and the value is a list of one or more concepts that the current concept is a type of. This is achieved by linking to the related concepts using Markdown links or WikiLinks, for example:
