@@ -1,11 +1,2 @@
 # Conceptual Knowledge
-Conceptual knowledge is a simple to understand, plain-text knowledge management system designed to:
-- be simple and intuitive
-- create database-like organization structures in minutes
-- share, compare, and build upon knowledge with others
-
-It's stored in the conceptual knowledge format, so by browsing this repository, you can see how easy it is to use.
-
-# Introduction
-Get started by reading about [conceptual knowledge](note/conceptual%20knowledge.md).
-
+Conceptual knowledge was an early attempt at structured knowledge representation that combined metadata and human-readable content. While successful in some aspects, its limitations in flexibility led to the development of the more adaptable [Human Knowledge Markdown](https://github.com/digitalreplica/human-knowledge-markdown) approach.
